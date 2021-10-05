@@ -20,7 +20,7 @@
 .control label {
   font-weight: bold;
   flex: 1;
-  color: #464646;
+  color: #51547b;
   margin-bottom: 0.5rem;
 }
 
@@ -29,17 +29,15 @@
   font: inherit;
   padding: 0.35rem 0.35rem;
   border-radius: 6px;
-  border: 1px solid #ccc;
+  border: none;
 }
 
 .control input:focus {
   outline: none;
-  border-color: #4f005f;
-  background: #f6dbfc;
+  background: #51547b;
 }
 
 .control.invalid input {
-  border-color: red;
   background: #fbdada;
 }
 

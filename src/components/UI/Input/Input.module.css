@@ -22,18 +22,17 @@
   font: inherit;
   padding: 0.35rem 0.35rem;
   border-radius: 6px;
-  border: 1px solid #ccc;
+  border: none;
+  background: #c9cbdc;
 }
 
 .control input:focus {
   outline: none;
-  border-color: #4f005f;
-  background: #f6dbfc;
+  background: #8487ad;
 }
 
 .control.invalid input {
-  border-color: red;
-  background: #fbdada;
+  background: #8487ad;
 }
 
 @media (min-width: 768px) {
