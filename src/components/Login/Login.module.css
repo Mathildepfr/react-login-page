@@ -1,7 +1,7 @@
 .login {
   width: 90%;
   max-width: 40rem;
-  margin: 2rem auto;
+  margin: 0 auto;
   padding: 2rem;
 }
 
@@ -34,7 +34,7 @@
 
 .control input:focus {
   outline: none;
-  background: #51547b;
+  background: #B0ABF1;
 }
 
 .control.invalid input {

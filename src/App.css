@@ -1,0 +1,13 @@
+.login {
+  width: 70%;
+  margin: 0 auto;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25%;
+}
+
+.login img {
+  width: 60%;
+  margin: 0 auto;
+}

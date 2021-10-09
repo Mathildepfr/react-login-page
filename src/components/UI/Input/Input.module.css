@@ -13,7 +13,7 @@
 .control label {
   font-weight: bold;
   flex: 1;
-  color: #464646;
+  color: #362393;
   margin-bottom: 0.5rem;
 }
 
@@ -23,16 +23,16 @@
   padding: 0.35rem 0.35rem;
   border-radius: 6px;
   border: none;
-  background: #c9cbdc;
+  background: #dfddf5;
 }
 
 .control input:focus {
   outline: none;
-  background: #8487ad;
+  background: #dfddf5;
 }
 
 .control.invalid input {
-  background: #8487ad;
+  background: #dfddf5;
 }
 
 @media (min-width: 768px) {
