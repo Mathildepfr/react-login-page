@@ -1,5 +1,6 @@
 Exercice from "React - The Complete Guide (incl Hooks, React Router, Redux)" on Udemy.
 
 
-<img width="751" alt="Capture d’écran 2021-10-05 à 4 47 29 PM" src="https://user-images.githubusercontent.com/86634734/135967434-43de5aa3-a789-4490-b125-d0ec2abb7471.png">
-<img width="749" alt="Capture d’écran 2021-10-05 à 4 46 33 PM" src="https://user-images.githubusercontent.com/86634734/135967422-a4e54d86-f666-4ff2-aab4-80d373ef5ffe.png">
+
+![mockup-react-login](https://user-images.githubusercontent.com/86634734/136644633-0cece0e2-ead6-46a5-80f0-e9905ea354c0.png)
+![mockup-react-login2](https://user-images.githubusercontent.com/86634734/136644634-a82c6407-3c8f-4b56-821d-bb3ac92c1b47.png)
